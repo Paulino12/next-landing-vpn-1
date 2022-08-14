@@ -8,7 +8,7 @@ import Maps from "../public/assets/HugeGlobal.svg";
 const Pricing = () => {
   return (
     <div
-      className="bg-gradient-to-b from-white-300 to-white-500 w-full py-14"
+      className="bg-gradient-to-b from-white-300 to-white-500 w-full pt-24"
       id="pricing"
     >
       <div className="max-w-screen-xl  px-6 sm:px-8 lg:px-16 mx-auto flex flex-col w-full text-center justify-center">
@@ -137,7 +137,7 @@ const Pricing = () => {
             Huge Global Network of Fast VPN{" "}
           </h3>
           <p className="leading-normal  mx-auto my-2 w-10/12 sm:w-7/12 lg:w-6/12">
-            See LaslesVPN everywhere to make it easier for you when you move
+            See OctavVPN everywhere to make it easier for you when you move
             locations.
           </p>
           <div className="py-12 w-full px-8 mt-16">
@@ -172,7 +172,7 @@ const Pricing = () => {
             />
           </div>
         </div>
-        <div className="flex flex-col w-full my-16" id="testimoni">
+        <div className="flex flex-col w-full my-16 md:pt-28" id="testimoni">
           <h3 className="text-2xl sm:text-3xl lg:text-4xl font-medium text-black-600 leading-normal w-9/12 sm: lg:w-4/12 mx-auto">
             Trusted by Thousands of Happy Customer{" "}
           </h3>
